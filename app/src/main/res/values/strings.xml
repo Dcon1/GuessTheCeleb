@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GuessTheCeleb</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="score" />
+    <string name="time_left" />
+    <string name="level">level: ?</string>
+    <string-array name="spinner">:
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
